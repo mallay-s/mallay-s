@@ -83,12 +83,11 @@ Nosso compromisso é crescer juntos, reforçando habilidades individuais e colet
 
 ## 🛠️ Tecnologias  
 
-Este repositório utiliza as seguintes tecnologias:  
-
-- **Linguagens**: Python, JavaScript, C#  
-- **Frameworks**: Next.js, Tailwind CSS  
-- **Banco de Dados**: SQLite, JSON  
-- **Ferramentas de Colaboração**: GitHub, LinkedIn
+- **Linguagens**: Java, JavaScript, Python,
+- **Frameworks**: React.js, Node.js, Next.js, Tailwind CSS  
+- **Banco de Dados**: MySQL, SQLite, JSON
+- **SO/Server**: Linux Debian, Kali, Windows e Windows Serve
+- **Ferramentas de Colaboração**: GitHub, LinkedIn, Whatsapp, Figma, Google Drive, Google Meet, Miro
 &nbsp;  
 &nbsp;  
 
@@ -103,6 +102,6 @@ Este repositório utiliza as seguintes tecnologias:
   <br><p align="centre"><b>Contador de Visitas</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/mallay-s/count.svg" /></p>  
   <br>  
-</div>  
+</div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
