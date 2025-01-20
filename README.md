@@ -5,6 +5,7 @@ A Mallay's é uma organização formada por um grupo de estudantes focados no de
 
 Nosso compromisso é crescer juntos, reforçando habilidades individuais e coletivas, e, eventualmente, expandir nossas iniciativas para o mercado, trazendo ideias que atendam tanto à inovação quanto à necessidade de soluções eficazes e sustentáveis.  
 </p>
+
 ## 🌍 Missão e Visão  
 
 **Missão**: Inovar com foco em soluções tecnológicas criativas que impactem positivamente o mercado de tecnologia e a sociedade, espalhando aprendizado para diversos outros profissionais, sejam iniciantes ou não.
@@ -12,6 +13,7 @@ Nosso compromisso é crescer juntos, reforçando habilidades individuais e colet
 **Visão**: Ser reconhecida como referência em projetos colaborativos e tecnológicos, transformando ideias em resultados concretos e de uso real.
 
 &nbsp;  
+
 <div align="center" style="margin-bottom:100px">  
   <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mallay-s&theme=radical&mode=weekly" />  
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallay-s&layout=compact" />  
@@ -87,9 +89,18 @@ Nosso compromisso é crescer juntos, reforçando habilidades individuais e colet
 - **Frameworks**: React.js, Node.js, Next.js, Tailwind CSS  
 - **Banco de Dados**: MySQL, SQLite, JSON
 - **SO/Server**: Linux Debian, Kali, Windows e Windows Serve
-- **Ferramentas de Colaboração**: GitHub, LinkedIn, Whatsapp, Figma, Google Drive, Google Meet, Miro
+- **Ferramentas de Colaboração**: GitHub, LinkedIn, Whatsapp, Figma, Google Drive, Google Meet, Miro, Trello
 &nbsp;  
-&nbsp;  
+&nbsp;
+
+## 🤝 Contribuições  
+
+Por enquanto estamos focando em grupo fechado antes de abrir para possíveis contribuições:  
+
+1. Fique de olho no nosso LinkedIn para atualizações sobre contribuições.  
+2. Leia nossas diretrizes quando ser lançado.
+
+Futuramente poderá ler nossas diretrizes de contribuição.
 
 ## Contatos:  
 <div>  
