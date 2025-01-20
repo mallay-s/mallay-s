@@ -61,7 +61,17 @@ Minha experiência inclui JavaScript, Python, C#, C++, React.js, Vue.js, Bootstr
       Co-Fundador - Desenvolvedor Front-End
       <br />
       <a href="https://www.linkedin.com/in/vinicius-gabriel-a769aa214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> |
-      <a href="https://github.com/MarianeOliva">GitHub</a>
+      <a href="https://github.com/">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/akalinoxd.png" width="100px;" alt="João Vitor"/>
+      <br />
+      <b>João Vitor</b>
+      <br />
+      Co-Fundador - Desenvolvedor Front-End
+      <br />
+      <a href="https://www.linkedin.com/in/joaovitor-frontend-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> |
+      <a href="https://github.com/akalinoxd">GitHub</a>
     </td>
   </tr>
 </table>
