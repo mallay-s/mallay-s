@@ -8,6 +8,7 @@ Nosso compromisso é crescer juntos, reforçando habilidades individuais e colet
 ## 🌍 Missão e Visão  
 
 **Missão**: Inovar com foco em soluções tecnológicas criativas que impactem positivamente o mercado de tecnologia e a sociedade, espalhando aprendizado para diversos outros profissionais, sejam iniciantes ou não.
+
 **Visão**: Ser reconhecida como referência em projetos colaborativos e tecnológicos, transformando ideias em resultados concretos e de uso real.
 
 &nbsp;  
