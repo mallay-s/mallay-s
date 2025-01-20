@@ -1,4 +1,3 @@
-<img align="center" style="margin-bottom:50px" width=1000% src="https://github.com/mallay-s/mallay-s/assets/144711331/530a6a01-8a0b-4ee1-a507-478448dfc41a)" />  
 &nbsp;&nbsp;&nbsp;  
 <p align="center">  
   <a href="README.md"><u><b>Português</b></u></a> | <a href="README_en.md">English</a> | <a href="README_es.md">Español</a>  
