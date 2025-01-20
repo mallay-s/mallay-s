@@ -1,10 +1,14 @@
 &nbsp;&nbsp;&nbsp;  
 
 <p align="center">  
-Desenvolvo soluções ótimas utilizando programação. <br><br>  
-Com foco em desenvolvimento Full Stack, além de desenvolver projetos como freelancer nos últimos meses, quero agora migrar completamente para Front-End.  
-Minha experiência inclui JavaScript, Python, C#, C++, React.js, Vue.js, Bootstrap, Linux, Windows Server, Photoshop, Figma, Office.  
-</p>  
+A Mallay's é uma organização formada por um grupo de estudantes focados no desenvolvimento de soluções inovadoras para problemas reais, utilizando tecnologia como ferramenta principal. Nosso objetivo é criar e aprimorar projetos que atendam às necessidades da sociedade, colaborando com diferentes áreas do conhecimento para gerar impactos positivos. Por meio do aprendizado contínuo e trabalho em equipe, buscamos resolver desafios que podem transformar a maneira como as pessoas interagem com o mundo digital e físico, utilizando métodos tecnológicos avançados.
+
+Nosso compromisso é crescer juntos, reforçando habilidades individuais e coletivas, e, eventualmente, expandir nossas iniciativas para o mercado, trazendo ideias que atendam tanto à inovação quanto à necessidade de soluções eficazes e sustentáveis.  
+</p>
+## 🌍 Missão e Visão  
+
+**Missão**: Inovar com foco em soluções tecnológicas criativas que impactem positivamente o mercado de tecnologia e a sociedade, espalhando aprendizado para diversos outros profissionais, sejam iniciantes ou não.
+**Visão**: Ser reconhecida como referência em projetos colaborativos e tecnológicos, transformando ideias em resultados concretos e de uso real.
 
 &nbsp;  
 <div align="center" style="margin-bottom:100px">  
