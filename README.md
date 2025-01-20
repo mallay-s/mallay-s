@@ -24,34 +24,44 @@ Minha experiência inclui JavaScript, Python, C#, C++, React.js, Vue.js, Bootstr
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/mallay-s.png" width="100px;" alt="Pedro Brito"/>
+      <img src="https://github.com/BooneMalay19.png" width="100px;" alt="Pedro Brito"/>
       <br />
       <b>Pedro Brito</b>
       <br />
-      Fundador e Líder
+      Co-Fundador - Desenvolvedor Full-Stack
       <br />
-      <a href="https://linkedin.com/in/pedro-brito-de-souza">LinkedIn</a> |
+      <a href="https://www.linkedin.com/in/boonemalay/">LinkedIn</a> |
       <a href="https://github.com/mallay-s">GitHub</a>
     </td>
     <td align="center">
-      <img src="https://github.com/username1.png" width="100px;" alt="Membro 1"/>
+      <img src="https://github.com/vick-araujo.png" width="100px;" alt="Victoria Araujo"/>
       <br />
-      <b>Membro 1</b>
+      <b>Victoria Araujo</b>
       <br />
-      Designer e Criador de Conteúdo
+      Co-Fundadora - Banco de Dados
       <br />
-      <a href="#">LinkedIn</a> |
-      <a href="#">GitHub</a>
+      <a href="https://www.linkedin.com/in/victoria-araujo-298a05270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> |
+      <a href="https://github.com/vick-araujo">GitHub</a>
     </td>
     <td align="center">
-      <img src="https://github.com/username2.png" width="100px;" alt="Membro 2"/>
+      <img src="https://github.com/MarianeOliva.png" width="100px;" alt="Mariane Oliva"/>
       <br />
-      <b>Membro 2</b>
+      <b>Mariane Oliva</b>
       <br />
-      Desenvolvedor Back-End
+      Co-Fundadora - Banco de Dados
       <br />
-      <a href="#">LinkedIn</a> |
-      <a href="#">GitHub</a>
+      <a href="https://www.linkedin.com/in/mariane-oliva-a418a6222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> |
+      <a href="https://github.com/MarianeOliva">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/" width="100px;" alt="Vinicius Gabriel"/>
+      <br />
+      <b>Vinicius Gabriel</b>
+      <br />
+      Co-Fundador - Desenvolvedor Front-End
+      <br />
+      <a href="https://www.linkedin.com/in/vinicius-gabriel-a769aa214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> |
+      <a href="https://github.com/MarianeOliva">GitHub</a>
     </td>
   </tr>
 </table>
@@ -67,7 +77,7 @@ Minha experiência inclui JavaScript, Python, C#, C++, React.js, Vue.js, Bootstr
 #### Ferramentas de Trabalho:  
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;  
 ![Windows Server](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;  
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;  
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp; 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;  
 
