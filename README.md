@@ -1,7 +1,4 @@
 &nbsp;&nbsp;&nbsp;  
-<p align="center">  
-  <a href="README.md"><u><b>Português</b></u></a> | <a href="README_en.md">English</a> | <a href="README_es.md">Español</a>  
-</p>  
 
 <p align="center">  
 Desenvolvo soluções ótimas utilizando programação. <br><br>  
@@ -31,8 +28,6 @@ Minha experiência inclui JavaScript, Python, C#, C++, React.js, Vue.js, Bootstr
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;  
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;  
-
-<img src="https://github.com/mallay-s/mallay-s/assets/144711331/ef8d5546-4b36-48d3-949a-e22eee8daf8a" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">  
 
 #### Tecnologias Secundárias:  
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;  
